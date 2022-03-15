@@ -1,0 +1,7 @@
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\bin\Debug\Calculadora.exe
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\bin\Debug\Calculadora.pdb
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\obj\Debug\Calculadora.exe
+T:\Documentos\UCA\RIDER\Labo01\Labo01\Calculadora\obj\Debug\Calculadora.pdb
